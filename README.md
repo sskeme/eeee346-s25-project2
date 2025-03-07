@@ -1,1 +1,2 @@
-# eeee346-s25-project2
+# Instructions
+Please see the attached PDF file (EEEE346-Project2-Instructions-S25.pdf).
